@@ -1,0 +1,35 @@
+==================================================================
+                                                                  
+                 HOTEL MANAGEMENT SYSTEM v1.0                     
+==================================================================
+                                                                  
+      "Ensuring Excellence in Hospitality and Guest Service"      
+                                                                  
+==================================================================
+                                                                  
+                    WARMEST GREETINGS                             
+                                                                  
+    Welcome to our establishment. We are honored to have you       
+    as our guest. Our goal is to provide you with an              
+    experience defined by efficiency, comfort, and care.          
+                                                                  
+    AVAILABLE SERVICES AND AMENITIES:                             
+    - 24-Hour Room Service and Dining                             
+    - High-Speed Internet Access                                  
+    - Dedicated Housekeeping and Laundry                          
+    - Professional Concierge Assistance                           
+                                                                  
+    GENERAL INFORMATION:                                          
+    - For Assistance: Please contact the Front Desk               
+    - Check-in Time : 02:00 PM                                    
+    - Check-out Time: 11:00 AM                                    
+                                                                  
+==================================================================
+                                                                  
+    Our management team is dedicated to ensuring your stay is     
+    extraordinary. Please let us know if there is anything        
+    we can do to assist you during your time with us.             
+                                                                  
+==================================================================
+        System Status: Operational | Current Year: 2026           
+==================================================================

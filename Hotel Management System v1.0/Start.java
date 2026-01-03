@@ -1,0 +1,9 @@
+import java.lang.*;
+import Entity.*;
+import GUI.*;
+
+public class Start {
+    public static void main(String[] args) {
+        HotelGUI hg=new HotelGUI();
+    }
+}
